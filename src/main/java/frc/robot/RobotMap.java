@@ -30,8 +30,8 @@ public class RobotMap {
     } 
     
     public static final class Intake {
-        public static final int MOTOR_MASTER_ID = 0;
-        public static final int MOTOR_FOLLOWER_ID = 0;
+        public static final int MOTOR_MASTER_ID = 6;
+        public static final int MOTOR_FOLLOWER_ID = 18;
         public static final int FORWARD_CHANNEL = 0;
         public static final int REVERSE_CHANNEL = 2;
 
