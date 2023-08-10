@@ -1,0 +1,3 @@
+function multiplyByTwo(number) {
+    
+};
